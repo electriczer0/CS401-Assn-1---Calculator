@@ -1,0 +1,16 @@
+Test Cases: 
+
+Divide by 0
+n1 is an integer. n2 is 0. operation is 4. 
+Confirm that program catches divide by 0 error and prompts for new input.
+
+Negative numbers
+n1 and/or n2 are negative. 
+Confirm that Scanner reads negative integers properly, and that output is correct. 
+
+Fractional numbers
+Operation is 4, N1 % N2 != 0. 
+Confirm that the program conditionally formats the result output as a double with 2 decimal places; rounded appropriately. 
+
+Continue Input
+Confirm that entering "yes" correctly repeats the loop. Confirm that any other entry, including eg "YES" will break the loop. 
